@@ -226,5 +226,4 @@ The remaining 70%+ requires manual testing.
 
 ## Sources
 
-- https://mobilea11y.com
 - https://accessibilityupto11.com/365-days-ios-accessibility/

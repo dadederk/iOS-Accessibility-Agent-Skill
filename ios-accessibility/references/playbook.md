@@ -546,5 +546,4 @@ Use this checklist when verifying changes before PR or release. Agents can sugge
 ## Sources
 
 - [Accessibility Up To 11](https://accessibilityupto11.com)
-- [Mobile A11y](https://mobilea11y.com)
 - [Developing Accessible iOS Apps](https://link.springer.com/book/10.1007/978-1-4842-5308-3)

@@ -9,7 +9,7 @@ Source links and attributions for this skill.
 - Blog: [Accessibility Up To 11 Blog](https://accessibilityupto11.com/blog/)
 - Website: [#365DaysIOSAccessibility](https://accessibilityupto11.com/365-days-ios-accessibility/)
 
-A year-long series of daily iOS accessibility tips by Daniel Devesa Derksen-Staats.
+Main resource used to develop this Agent Skill. A year-long series of daily iOS accessibility tips by Daniel Devesa Derksen-Staats.
 
 Blog and resources about mobile accessibility by Rob Whitaker. Used with attribution.
 
@@ -52,6 +52,11 @@ Both of the following skills were released before this one.
 
 - [swift-accessibility-skill](https://github.com/PasqualeVittoriosi/swift-accessibility-skill) by Pasquale Vittoriosi — stronger coverage for topics outside this skill's core iOS scope (for example: macOS accessibility, Accessibility Nutrition Labels, and WCAG)
 - [apple-accessibility-skills](https://github.com/rgmez/apple-accessibility-skills) by Roberto Gómez — complementary accessibility guidance for Apple-platform development
+
+### Agent Skills Inspiration
+
+- [Agent Skills: Replacing AGENTS.md with reusable AI knowledge](https://www.avanderlee.com/ai-development/agent-skills-replacing-agents-md-with-reusable-ai-knowledge/) by Antoine van der Lee
+- [SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) by Antoine van der Lee
 
 ### WWDC Sessions
 

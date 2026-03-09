@@ -101,12 +101,17 @@ Both of the following skills were released before this one.
   If you need stronger coverage for topics outside this skill's core iOS scope (for example: **macOS accessibility**, **Accessibility Nutrition Labels**, and **WCAG**), consider this one.
 - [apple-accessibility-skills](https://github.com/rgmez/apple-accessibility-skills) by Roberto Gómez
 
-## Accessibility Nutrition Labels
+## Inspiration and Acknowledgements
 
-For **Accessibility Nutrition Labels**, use Apple’s official guidance:
+I first learned about Agent Skills from Antoine van der Lee's article:
 
-- [Overview of Accessibility Nutrition Labels](https://developer.apple.com/help/app-store-connect/manage-app-accessibility/overview-of-accessibility-nutrition-labels/)
-- [Manage Accessibility Nutrition Labels](https://developer.apple.com/help/app-store-connect/manage-app-accessibility/manage-accessibility-nutrition-labels)
+- [Agent Skills: Replacing AGENTS.md with reusable AI knowledge](https://www.avanderlee.com/ai-development/agent-skills-replacing-agents-md-with-reusable-ai-knowledge/)
+
+In his video, he mentions that someone with expertise in iOS accessibility should write an accessibility skill. That idea directly motivated this project.
+
+One of his skills is also a useful reference:
+
+- [SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)
 
 ## Skill Structure
 
@@ -136,12 +141,10 @@ ios-accessibility/                  # Main skill folder
 
 ## Sources
 
-- [Accessibility Up To 11](https://accessibilityupto11.com/365-days-ios-accessibility/) by Daniel Devesa Derksen-Staats
-- [Mobile A11y](https://mobilea11y.com) by Rob Whitaker
+- **Main resource used to develop this Agent Skill:** [#365DaysIOSAccessibility](https://accessibilityupto11.com/365-days-ios-accessibility/) by Daniel Devesa Derksen-Staats
 - [From Zero to Accessible](https://github.com/dadederk/fromZeroToAccessible) workshop by Rob Whitaker and Daniel Devesa Derksen-Staats
 - [Fostering an Accessibility Culture](https://www.smashingmagazine.com/2025/04/fostering-accessibility-culture/) (Smashing Magazine)
-- [Developing Accessible iOS Apps](https://link.springer.com/book/10.1007/978-1-4842-5308-3) (Apress)
-- [Create with Swift — Make It Accessible](https://www.createwithswift.com/make-it-accessible)
+- [Developing Accessible iOS Apps — Sample Code](https://github.com/Apress/developing-accessible-iOS-apps)
 
 ## Contributing
 

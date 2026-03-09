@@ -166,4 +166,3 @@ All scale proportionally with user's text size setting.
 - [Apple Developer Documentation — UIKit Accessibility](https://developer.apple.com/documentation/uikit/accessibility)
 - [Apple Human Interface Guidelines — Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility)
 - [Accessibility Up To 11 — #365DaysIOSAccessibility](https://accessibilityupto11.com/365-days-ios-accessibility/)
-- [Mobile A11y](https://mobilea11y.com)

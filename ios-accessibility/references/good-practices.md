@@ -671,6 +671,5 @@ Triggered with a double-pinch gesture.
 
 ## Sources
 
-- [Mobile A11y](https://mobilea11y.com)
 - [Accessibility Up To 11 — #365DaysIOSAccessibility](https://accessibilityupto11.com/365-days-ios-accessibility/)
 - [From Zero to Accessible](https://github.com/dadederk/fromZeroToAccessible) (Daniel Devesa Derksen-Staats and Rob Whitaker)
