@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS Accessibility"
+  short_description: "iOS accessibility guidance for UIKit and SwiftUI apps"
+  default_prompt: "Use $ios-accessibility to review this iOS code for VoiceOver, Dynamic Type, and other accessibility issues, then propose fixes, and explain testing steps."
